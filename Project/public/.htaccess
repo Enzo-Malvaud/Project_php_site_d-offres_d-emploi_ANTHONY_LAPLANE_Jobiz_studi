@@ -1,4 +1,1 @@
-RewriteEngine On
-RewriteBase /
-
-RewriteRule ^ index.php [QSA,L]
+RewriteEngine On RewriteBase / RewriteRule ^ index.php [QSA,L]

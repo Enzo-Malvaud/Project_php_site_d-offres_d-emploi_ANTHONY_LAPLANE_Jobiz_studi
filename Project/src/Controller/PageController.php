@@ -12,7 +12,7 @@ class PageController extends Controller
         $name = "John";
         
         $categoryRepository = new CategoryRepository();
-
+        
         $categories = $categoryRepository->findAll();
 
         $this->render("page/home", [

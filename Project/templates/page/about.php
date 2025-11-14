@@ -1,4 +1,5 @@
-<?php require_once APP_ROOT. "/templates/header.php" ?>
+<?php require_once APP_ROOT. "/templates/header.php";
+?>
 
 <section class="text-gray-600 body-font">
   <div class="container flex flex-wrap px-5 py-24 mx-auto items-center">
